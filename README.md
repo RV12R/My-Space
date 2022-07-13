@@ -15,3 +15,5 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying with the help of these [documentations](https://threejs.org/docs/). The page auto-updates as you edit the file.
+
+If you encounter with any bugs or errors please head to [Github Issues]()

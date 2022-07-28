@@ -1,6 +1,6 @@
 # [MY SPACE](https://space-ten-beta.vercel.app/)
 
-[My space](http://skillful-example.surge.sh/) is my portfolio website built on top of [Three.js](https://threejs.org/) and [Vite](https://vitejs.dev/), deployed with [Surge.sh](https://surge.sh/). Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
+[My space](https://space-ten-beta.vercel.app/) is my portfolio website built on top of [Three.js](https://threejs.org/) and [Vite](https://vitejs.dev/), deployed with [Surge.sh](https://surge.sh/). Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
 ## Getting Started
 

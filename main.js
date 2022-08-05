@@ -1,6 +1,5 @@
 import './style.css';
 import * as THREE from 'three';
-import imgUrl from './space.jpg';
 
 
 // Setup
@@ -51,11 +50,6 @@ function addStar() {
 }
 
 Array(200).fill().forEach(addStar);
-
-// Background
-
-const spaceTexture = new THREE.TextureLoader().load(imgUrl);
-scene.background = spaceTexture;
 
 // Scroll Animation
 
